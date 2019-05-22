@@ -1,13 +1,6 @@
 Changelog LandoNet
 ========
 
-## srsenb/hdr/enb.h:
-
-##### L176 removed: 
-```
-private:
-```
-
 ## lib/include/srslte/interfaces/enb_metrics_interface.h:
 ##### L50 - L57:
 ```
