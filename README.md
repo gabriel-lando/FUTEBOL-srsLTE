@@ -35,8 +35,8 @@ sudo ldconfig
 
 Download and build srsLTE: 
 ```
-git clone https://gitlab.com/futebol/srsLTE_LandoNet.git
-cd srsLTE_LandoNet
+git clone https://github.com/gabriel-lando/FUTEBOL-srsLTE.git
+cd FUTEBOL-srsLTE
 mkdir build
 cd build
 cmake ../
